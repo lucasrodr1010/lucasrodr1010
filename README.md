@@ -1,4 +1,4 @@
-## Hi there 👋
+## [Download Spark Rewards](https://www.getsparkrewards.com)
 
 <!--
 **lucasrodr1010/lucasrodr1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
