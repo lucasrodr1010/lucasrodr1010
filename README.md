@@ -11,7 +11,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.sparkRewards.app">
-    <img alt="Get it on Google Play" width="240" valign="middle"
+    <img alt="Get it on Google Play" width="270" valign="middle"
          src="./google-play-badge.png">
   </a>
 </p>
